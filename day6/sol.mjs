@@ -1,4 +1,4 @@
-// work for both mark
+// work for both part
 import fs from 'node:fs';
 
 const lines = fs.readFileSync('./input.txt', { encoding: 'utf-8' }).split('\n');
