@@ -9,3 +9,7 @@ Advent of Code is a series of small programming puzzles that can be solved in an
 
 ## Repository Structure
 Each folder in this repository corresponds to a specific day of the challenge, containing the puzzle solutions and any related resources. The structure is designed to make navigation and understanding of my approach as straightforward as possible.
+
+## Result Record
+
+![](./assets/leaderboard.png)
